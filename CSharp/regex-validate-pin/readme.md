@@ -4,7 +4,7 @@
 
 ## Descrição
 
-O objetivo é validar se um PIN contém exatamente 4 ou 6 dígitos numéricos.
+O objetivo é validar se um PIN contém exatamente 4 ou 6 dígitos numéricos, retornando true ou false.
 
 ## Aprendizados
 
