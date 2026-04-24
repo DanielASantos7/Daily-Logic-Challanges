@@ -13,7 +13,7 @@ public class SplitString
 
         for (int i = 0; i < str.Length; i += 2)
         {
-            lista.Add("" + str[i] + str[i + 1]);
+            lista.Add(str.Substring(i, 2));
         }
         return lista.ToArray();
     }
