@@ -1,19 +1,13 @@
-# Row Sum Odd Numbers
+# Row Sum Odd Numbers (7 kyu)
+
+**Link:** https://www.codewars.com/kata/55fd2d567d94ac3bc9000064
 
 ## Descrição
 
 Dado um triângulo formado por números ímpares consecutivos, retornar a soma dos números da linha n.
 
-## Exemplo
+## Aprendizados
 
-1 → 1  
-2 → 3 + 5 = 8  
-3 → 7 + 9 + 11 = 27
-
-## Solução
-
-A soma da linha n segue o padrão matemático n³, permitindo uma solução direta sem necessidade de loops.
-
-## Complexidade
-
-O(1)
+- Identificação de padrões matemáticos.
+- Relação entre sequência de números ímpares e cubos perfeitos.
+- Simplificação de lógica evitando loops desnecessários.

@@ -1,5 +1,5 @@
 using System;
-public static class RowSumOddNumbers
+public static class Kata
 {
     public static long RowSumOddNumbers(long n)
     {
